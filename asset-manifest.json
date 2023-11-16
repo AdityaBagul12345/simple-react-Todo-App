@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdityaBagul12345/simple-react-Todo-App/static/css/main.000153af.css",
+    "main.js": "/AdityaBagul12345/simple-react-Todo-App/static/js/main.39f602d8.js",
+    "static/js/787.187b4a45.chunk.js": "/AdityaBagul12345/simple-react-Todo-App/static/js/787.187b4a45.chunk.js",
+    "index.html": "/AdityaBagul12345/simple-react-Todo-App/index.html",
+    "main.000153af.css.map": "/AdityaBagul12345/simple-react-Todo-App/static/css/main.000153af.css.map",
+    "main.39f602d8.js.map": "/AdityaBagul12345/simple-react-Todo-App/static/js/main.39f602d8.js.map",
+    "787.187b4a45.chunk.js.map": "/AdityaBagul12345/simple-react-Todo-App/static/js/787.187b4a45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.000153af.css",
+    "static/js/main.39f602d8.js"
+  ]
+}
